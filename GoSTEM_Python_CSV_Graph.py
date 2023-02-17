@@ -6,6 +6,7 @@ import pandas as pd
 import datetime
 from datetime import datetime
 import numpy as np
+#Aquestes llibraries han destar isntal·lades per poder fer funcionar correctament el codi
 
 Lat = []
 Temp = []
