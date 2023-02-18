@@ -8,5 +8,4 @@ Un fixer CSV extret d'un test amb la placa onboard computer de GoSTEM en un traj
 
 El mapa generat extret del codi en format HTML que genera el script de python
 
-![alt text](https://github.com/[GoSTEM-Education]/[
-GoSTEM_Tracker_CSV_plotter]/blob/[branch]/demo_plot.png?raw=true)
+![alt text](https://github.com/[GoSTEM-Education]/[GoSTEM_Tracker_CSV_plotter]/demo_plot.png?raw=true)
