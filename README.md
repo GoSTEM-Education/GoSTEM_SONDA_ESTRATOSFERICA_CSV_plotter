@@ -6,6 +6,10 @@ Es presenta un codi en pytohn que fa el procesat de les dades. Es fa servir prin
 
 Un fixer CSV extret d'un test amb la placa onboard computer de GoSTEM en un trajecte en cotxe
 
-El mapa generat extret del codi en format HTML que genera el script de python
+El mapa generat extret del codi en format HTML que genera el script de python. Es pot veure en la següent imatge com es crea el fitxer html, aquest també es pot visualitzar a trabés d'un mobil com google chrome.
 
 ![Recorregut d'Exemple](https://github.com/GoSTEM-Education/GoSTEM_Tracker_CSV_plotter/blob/main/demo_plot.png?raw=true)
+
+Per altre banda el codi també genera uns plots simples de presió, temperatura, elevació,... aquest es poden veure de manera orientativa en la següent imatge. 
+
+![Recorregut d'Exemple](https://github.com/GoSTEM-Education/GoSTEM_Tracker_CSV_plotter/blob/main/demo_graphs.png?raw=true)
